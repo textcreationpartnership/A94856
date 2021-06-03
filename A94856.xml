@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The trial of Susannah Fowles of Hammersmith: that was try'd at London for blaspheming Jesus Christ. : And cursing the Lords Prayer. : And who also pretended to be possest with a devil.</title>
+            <author>Fowles, Susannah, defendant.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94856</idno><idno type="EEBO-CITATION">43077701</idno>
+  <idno type="VID">151814</idno>
+  <idno type="EEBO-PROQUEST">2240883390</idno>
+  
+            <idno type="STC">Wing T2225A</idno>
+            <idno type="STC">ESTC R185502</idno>
+            <idno type="OCLC">43077701</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151814)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The trial of Susannah Fowles of Hammersmith: that was try'd at London for blaspheming Jesus Christ. : And cursing the Lords Prayer. : And who also pretended to be possest with a devil.</title>
+                  <author>Fowles, Susannah, defendant.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trials (Blasphemy) --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:151814:1"/>
+            <head>THE TRIAL OF SUSANNAH FOWLES Of <hi>Hammersmith:</hi> That was Try'd at <hi>London</hi> for Blaspheming JESUS CHRIST. And Cursing the LORDS PRAYER. And who also pretended to be possest with a Devil.</head>
+            <p>ON <hi>Saturnday</hi> the 7th of <hi>May</hi> 1698. <hi>Susannah Fowles</hi> of the Parish of <hi>Ham<g ref="char:EOLhyphen"/>mersmith</hi> in the County of <hi>Middlesex,</hi> was Indicted at the Sessions House in the <hi>Old-Baily,</hi> for uttering blasphemous Words against Jesus Christ, and Cursing and Damning the Lords Prayer. The Account of her Trial is as follows.</p>
+            <p>The first Evidence depos'd that the Prisoner's Husband came to him, and told him that his Wife was possest with a Devil: upon which he ask'd him if she had been guilty of any heinous Sin? and was answered. That upon some Discontent she wished several unlawful wishes, such as <hi>That the Devil might fetch her,</hi> cursed her self <hi>if she would live such a Life,</hi> &amp;c. And upon her being visited she said, she saw an Apparition in the shape of a Man; and afterward seem'd to be poflest with a Devil, and had seemingly dreadful Fits, and made a great noise at Prayers; and when she was out of her Fits, she told the Spectators that she saw the Apparition sometimes in one shape, and sometimes in another; and at one time said it was one Mr. <hi>Thomas,</hi> and then making a great squeek, said, <hi>Now he is gone out of me;</hi> That she used to make a squeek at the end of every Fit, sometimes two Squeeks, and sometimes three; and of the Ministers who visited her, being jealous of her being a Cheat, said at the end of the next Fit she would make four Squeeks, which she did. It was also observ'd, that as soon as Pray<g ref="char:EOLhyphen"/>ers begun she took her Fits and pretended to be altogether sensless; at another time that she said, <hi>She faw a short Man with a long Beard, which her Handkerchief was a fool to for length:</hi> and it was taken notice of that she never alter'd her Coun<g ref="char:EOLhyphen"/>tenance in the time of her Fits; which together with divers Methods which were us'd to make her believe they were at Prayers when they were not, increased the belief that she was a Cheat: And being questioned if she dissembled, she said <hi>if she did, it were just with God to strick her dead:</hi> and upon its being declared to her she was a Cheat: she and all her Family spoke not one word. Afterwards at a<g ref="char:EOLhyphen"/>nother visiting she feem'd to be in a great Fit; lifting up her hands as if she would have done her self some mischief; but upon speaking the words <hi>Tie her,</hi> she let them rest. It was likewise observ'd, that when she was in her Fits, she never cursed nor blasphemed, as those who are possest with the Devil do untill she heard some of the Ministers take notice of it; and then she did.</p>
+            <p>At another time the Vifiters read and prayed with her from morn to night, when she seem'd to be in an Agony; and being forc'd on her knees at Prayer, she swore <hi>she would go with him on Friday,</hi> naming the Devil frequently; and on the <hi>Friday</hi> following she said, <hi>One of the Windows above-stairs was open, and the Devil was come to fetch her,</hi> making a great noise, and lighting a great many Candles and search being made for the open Window, it could not be found.</p>
+            <p>On the 3d. of <hi>January</hi> last, upon one of the Visiters repeating the words, <hi>Lord save us</hi> she said, <hi>I'll save you;</hi> and frequently upon repeating the Lord's Prayer to her she said, <hi>Curse it, damn it, sink it,</hi> and upon repeating the words I <hi>believe in God the Fa<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:151814:2"/>Almighty,</hi> she said <hi>that's me;</hi> &amp; at repeating the words, <hi>And in Jesus Christ his only Son,</hi> she said, <hi>that's my Son.</hi> At another time when the words <hi>Lord save us</hi> were again peated to her, she said <hi>I'll save you,</hi> I <hi>came to save you all, for which</hi> I <hi>shed my Blood.</hi> And at other times, on repeating the Lords Prayer, she inverted the Expressions; and instead of the words <hi>Lead us not into temptation,</hi> she said; <hi>lead us into temp<g ref="char:EOLhyphen"/>tation;</hi> and at the words <hi>Deliver us from evil,</hi> she said, <hi>bring evil unto us.</hi> And upon repeating the words, <hi>Glory be to the Father and to the Son,</hi> she said <hi>that's to me and my Son.</hi> And always at the naming the Name of Jesus, she would say, <hi>Curse him, curse him.</hi> It was observed that a little before her Marriage she wish't that the Devil might fetch her away if ever she went to live at <hi>Hammersmith,</hi> which she did notwithstanding that same day.</p>
+            <p>The evidence also deposed, that the Prisoner said, she had a Needle and a Pa<g ref="char:EOLhyphen"/>per in writing given her by the Devil; and that she had a Spell given her to put a<g ref="char:EOLhyphen"/>bout her Neck by one <hi>Jordan</hi> a Papist, some of which Profession she said had sent to her several times, and told her she would never be cured till the Men with hair Coats and bare Legs came from the <hi>Portugal</hi> Embassadors: Which some of the Mini<g ref="char:EOLhyphen"/>sters, who were Visiters and Evidence against the Prisoner, declared, encreased their belief that it was a trick of the to obtain the Credite of having done that which Protestants could not, <hi>viz</hi> to cast out the Devil. Another time one of the Visiters said she could not spit in his Face; but she deceiv'd him, and did it and a<g ref="char:EOLhyphen"/>nother of the Visiters spitting in her face, she return'd it and call'd him <hi>Q. in the corner.</hi> It was also observed that at repeating the Lord's Prayer; in Latin she did not fall into her Fits as usual when 'twas said in English, which was a further Con<g ref="char:EOLhyphen"/>firmation of the Cheat.</p>
+            <p>To prove which more fully, one of the Evidence deposed, that to try her he heat an Iron; and when the Minister was at Prayer, and she in her Fits as usual, even when she pretended to be insensible, he p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t it to her Hand, which she drew a<g ref="char:EOLhyphen"/>way from it as soon as it touched her; and filling a Pipe of Tobacco, he blew the Smoak of it into her Face, which was like to have stifled her: And afterwards disguiseing himself in an ugly dress, entered the room whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e she was alone; u<g ref="char:EOLhyphen"/>pon which she immediatly run out, saying it was the Devil, and was much fright<g ref="char:EOLhyphen"/>ned; which was a further demonstration she was a Cheat. After which Evidence threatening to knock her on the head if she <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ld not confess the Cheat, she did it freely, and said 'twas purely to get money, which she also own'd to some others of the Evidence. And it appeared that after <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot being taken up she pretended to have none of her fits.</p>
+            <p>The Prisoner in her defence said that great Troubles had occasioned her to fall into a distracted condition, and that she knew not what she did; that she did verily believe she was either troubled with a Devil, or bewitched: that <hi>Jordan</hi> the Papist had given her things both inwardly and outwardly; and that what she had confest, was only to avoid her being <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to Prison. But all this being look'd upon as frivolous and evasion, and the Evidence being very full and clear, the Jury brought her in Guilty.</p>
+            <p>
+               <hi>She was sentenced by the Court to pay a Fine of</hi> 100 <hi>Merks, and to lie in Prison till it be paid: to stand three times on the Pillary,</hi> viz. <hi>at the May-pole in the</hi> Strand <hi>at</hi> Charingeross <hi>and</hi> at Hammersmith; <hi>and to find Surety for her good behaviour for a Twelve-month.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
